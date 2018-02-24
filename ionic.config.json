@@ -1,0 +1,8 @@
+{
+  "name": "eCapture",
+  "app_id": "2b472cd1",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
