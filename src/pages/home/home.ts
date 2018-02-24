@@ -132,8 +132,7 @@ public uploadImage() {
     mimeType: "multipart/form-data",
     params : {'fileName': filename}
   };
- 
-  
+   
   const fileTransfer: TransferObject = this.transfer.create();
  
   this.loading = this.loadingCtrl.create({
